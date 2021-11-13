@@ -713,7 +713,7 @@
 											"left": 426,
 											"top": 530,
 											"width": 78,
-											"height": 39,
+											"height": 26,
 											"text": "No mostrar el medicamento",
 											"wordWrap": true
 										}
@@ -1439,7 +1439,7 @@
 											"left": 130,
 											"top": 168,
 											"width": 55,
-											"height": 39,
+											"height": 26,
 											"text": "Ingresar al Sistema",
 											"wordWrap": true
 										}
@@ -1802,7 +1802,7 @@
 											"left": 330,
 											"top": 570,
 											"width": 56,
-											"height": 39,
+											"height": 26,
 											"text": "Mostrar el formulario",
 											"wordWrap": true
 										}
@@ -1882,7 +1882,7 @@
 											"left": 330,
 											"top": 698,
 											"width": 56,
-											"height": 39,
+											"height": 26,
 											"text": "Rellenar el formulario",
 											"wordWrap": true
 										}
@@ -5341,12 +5341,12 @@
 										"$ref": "AAAAAAF9G0RtkxaSV7M="
 									},
 									"font": "Arial;13;0",
-									"left": 327,
-									"top": 304,
+									"left": 295,
+									"top": 312,
 									"width": 94,
 									"height": 13,
-									"alpha": 1.653178074424166,
-									"distance": 109.37092849564732,
+									"alpha": 1.5837824325901322,
+									"distance": 77.00649323271382,
 									"hostEdge": {
 										"$ref": "AAAAAAF9G0RtkxaSV7M="
 									},
